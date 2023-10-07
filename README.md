@@ -14,7 +14,7 @@
   </a> 
 </section><br>
 
-- 🔭 Working as a QE Automation Engineer
+- 🔭 QE Automation Engineer
 - 🎓 Student taking Computer Programming & Analysis
 - 💡 Open-source Advocate
 - 💻 Love learning New Languages & Tools
