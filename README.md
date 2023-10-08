@@ -23,16 +23,30 @@
 
 <section align="left">
 
-## About me 😎
+## 😎 About me: 
 
-Hello! 👋 I'm currently taking Computer Programming & Analysis with a deep passion in Canada and also working as a QE Automation Engineer. Recently, I've got intertested in open-source projects since I participated into `Hacktoberfest 2023`. Even though I made a small change in projects, it gave me a sense of achievement and satisfaction. This makes me get motivated and keep moving forard, and learn new technologies. 
+Hello! 👋 I'm currently taking Computer Programming & Analysis with a deep passion in Canada and also working as a QE Automation Engineer. Recently, I've got intertested in open-source projects since I participated into `Hacktoberfest 2023`. Even though I made a small change in projects, it gave me a sense of achievement and satisfaction. This makes me get motivated and keep moving forward, and learn new technologies. 
 
 *I'm excited to meet great people, learn new things, and explore different technologies for learning and growth.* 🚀💫
 
 </section>
 
+## :fire: My Stats :
+<section align="center">
 
-## Languages and Tools
+
+
+
+| <img src="https://github-readme-stats.vercel.app/api?username=seog-jun&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" title="Github Stats"/> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=seog-jun&theme=tokyonight&hide_border=true" alt="Github Streak" title="Github Streak"/> |
+| --- | --- | 
+
+
+
+
+</section>
+
+
+## :hammer_and_wrench: Languages and Tools:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" title="C++" alt="c++" width="40" height="40"/>&nbsp;
@@ -59,7 +73,5 @@ Hello! 👋 I'm currently taking Computer Programming & Analysis with a deep pas
   <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg" title="Heroku" alt="Heroku" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="Jenkins" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" alt="Selenium" width="40" height="40"/>&nbsp;
-
-  
 </div>
 
