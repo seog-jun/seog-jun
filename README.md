@@ -16,7 +16,7 @@
 
 
 - 🧑 QE Automation Engineer
-- 🎓 Student taking Computer Programming & Analysis
+- 🎓 Diploma in Computer Programming & Analysis
 - 💡 Open-source Advocate
 - 💻 Love learning New Languages & Tools
 
@@ -25,7 +25,7 @@
 
 ## 😎 About me: 
 
-Hello! 👋 I'm currently taking Computer Programming & Analysis with a deep passion in Canada and also working as a QE Automation Engineer. Recently, I've got intertested in open-source projects since I participated into `Hacktoberfest 2023`. Even though I made a small change in projects, it gave me a sense of achievement and satisfaction. This makes me get motivated and keep moving forward, and learn new technologies. 
+Hello! 👋 I’m a Computer Programming & Analysis diploma graduate based in Canada, currently working as a QE Automation Engineer with a deep passion for technology. My journey into open-source began with Hacktoberfest 2023, where even making small contributions gave me a strong sense of achievement and satisfaction. That experience sparked my motivation to keep learning, improving, and exploring new technologies.
 
 *I'm excited to meet great people, learn new things, and explore different technologies for learning and growth.* 🚀💫
 
